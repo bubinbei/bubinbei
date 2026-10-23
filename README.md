@@ -8,13 +8,13 @@
 
 ## Сейчас в работе — KERN
 
-[![KERN — открытая регистрация параметров бурения](assets/kern-ru.svg)](https://github.com/bubinbei/open-drill)
+[![KERN — открытая регистрация параметров бурения](assets/kern-ru.svg)](https://github.com/bubinbei/kern)
 
 **Rust · регистрация измерений · плагины · Windows 10**
 
-Новая программа на основе сохранённого прототипа Boreline: вертикальные графики, IM2480 и эмулятор. Следующий этап — устойчивое ядро, сырой журнал и восстановление после отказов. Проект находится до альфы.
+Независимый проект с новой историей: устойчивое ядро Rust, сырой журнал, сменные плагины и восстановление после отказов. Архитектура согласована; реализация нового ядра впереди. Проект находится до альфы.
 
-[Исходный код →](https://github.com/bubinbei/open-drill) · [План разработки](https://github.com/bubinbei/open-drill/blob/work/core-resilience/docs/CORE_RELIABILITY_PLAN.md) · [Документация](https://github.com/bubinbei/open-drill/blob/work/core-resilience/docs/INDEX.md)
+[Исходный код →](https://github.com/bubinbei/kern) · [План разработки](https://github.com/bubinbei/kern/blob/main/docs/ROADMAP.md) · [Документация](https://github.com/bubinbei/kern/blob/main/docs/ARCHITECTURE.md)
 
 ---
 

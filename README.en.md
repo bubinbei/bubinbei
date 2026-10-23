@@ -8,13 +8,13 @@ I build tools for measurement and data acquisition. My interests are clear inter
 
 ## Currently building — KERN
 
-[![KERN — open drilling-data acquisition](assets/kern-en.svg)](https://github.com/bubinbei/open-drill)
+[![KERN — open drilling-data acquisition](assets/kern-en.svg)](https://github.com/bubinbei/kern)
 
 **Rust · measurement recording · plugins · Windows 10**
 
-A new application based on the preserved Boreline prototype: vertical charts, IM2480 support and an emulator. Next: a resilient core, raw journal and recovery after failures. The project is pre-alpha.
+An independent project with a fresh history: a resilient Rust core, raw journal, replaceable plugins and recovery after failures. Architecture is agreed; core implementation is ahead. The project is pre-alpha.
 
-[Source →](https://github.com/bubinbei/open-drill) · [Development plan](https://github.com/bubinbei/open-drill/blob/work/core-resilience/docs/en/CORE_RELIABILITY_PLAN.md) · [Documentation](https://github.com/bubinbei/open-drill/blob/work/core-resilience/docs/en/INDEX.md)
+[Source →](https://github.com/bubinbei/kern) · [Development plan](https://github.com/bubinbei/kern/blob/main/docs/en/ROADMAP.md) · [Documentation](https://github.com/bubinbei/kern/blob/main/docs/en/ARCHITECTURE.md)
 
 ---
 
