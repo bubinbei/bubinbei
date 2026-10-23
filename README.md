@@ -1,19 +1,21 @@
-# Welcome! There is some stats of my ✨ GitHub ✨
+<p align="right"><strong>Русский</strong> · <a href="README.en.md">English</a></p>
 
-<!--
-**bubinbei/bubinbei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![bubinbei — программы, приборы, открытый код](assets/profile-header.svg)
 
-Here are some ideas to get you started:
+# Рома · bubinbei
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Разрабатываю инструменты для измерений и сбора данных. Мне интересны понятные интерфейсы, связь с реальными приборами и программы, которые бережно относятся к ресурсам компьютера.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bubinbei&show_icons=true&theme=radical)](https://github.com/bubinbei)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bubinbei&show_icons=true&theme=radical&langs_count=8&layout=compact)](https://github.com/bubinbei)
--->
+## Сейчас в работе — KERN
+
+[![KERN — открытая регистрация параметров бурения](assets/kern-ru.svg)](https://github.com/bubinbei/open-drill)
+
+**Rust · регистрация измерений · плагины · Windows 10**
+
+Новая программа на основе сохранённого прототипа Boreline: вертикальные графики, IM2480 и эмулятор. Следующий этап — устойчивое ядро, сырой журнал и восстановление после отказов. Проект находится до альфы.
+
+[Исходный код →](https://github.com/bubinbei/open-drill) · [План разработки](https://github.com/bubinbei/open-drill/blob/work/core-resilience/docs/CORE_RELIABILITY_PLAN.md) · [Документация](https://github.com/bubinbei/open-drill/blob/work/core-resilience/docs/INDEX.md)
+
+---
+
+**Небольшое ядро. Явное качество данных. Проверяемые результаты.**
